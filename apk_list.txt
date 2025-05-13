@@ -1,0 +1,4 @@
+/path/to/app1.apk
+/path/to/app2.apk
+/path/to/app3.apk
+/path/to/app4.apk
